@@ -1,0 +1,27 @@
+# India's Next Dancer 2027
+
+> India's Next Dancer 2027 is a nationwide freestyle dance competition presented by KGIL Productions. Auditions run in 10 major Indian cities across four categories — Kids (5–12, solo), Teens (13–19, solo), Adults (20+, solo) and Group (2–10 members) — with a total prize pool of ₹28,00,000 and a live National Grand Finale in Mumbai in July 2027.
+
+Key facts:
+- Organiser: KGIL Productions, registered in Pune, Maharashtra, India
+- Format: freestyle — any dance form is welcome (classical, folk, street, contemporary, Bollywood, fusion)
+- Rounds: 1) City auditions in 10 cities, 2) City semifinals, 3) National Grand Finale in Mumbai with celebrity judges
+- Prizes per category: 1st place ₹5,00,000; 2nd place ₹2,00,000 (8 winners across 4 categories)
+- Status: registrations open soon; audition cities and dates will be announced when registration opens
+
+## Pages
+
+- [Home](https://indianextdancer.com/): Overview, categories, prize money, competition journey and registration updates sign-up
+- [About](https://indianextdancer.com/about/): Who runs the competition, what it stands for, and organiser details
+- [Privacy Policy](https://indianextdancer.com/privacy-policy/): How personal information is collected and used
+- [Terms & Conditions](https://indianextdancer.com/terms-and-conditions/): Eligibility, categories, format, judging and prize rules
+
+## Contact
+
+- Email: support@kgilproduction.com
+- Mobile: +91 98366 76837
+- Registered office: KGIL Productions, 203, Terminal-1, Tower B, Hinjewadi Phase 1, Pune, Maharashtra 411057
+
+## Optional
+
+- [Full details for AI assistants](https://indianextdancer.com/llms-full.txt)
