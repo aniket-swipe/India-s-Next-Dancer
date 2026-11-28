@@ -1,0 +1,7 @@
+# Netlify / Cloudflare Pages: single 301 hops, no chains. Missing pages fall through to /404.html with HTTP 404.
+/index.html               /                         301
+/about                    /about/                   301
+/privacy-policy           /privacy-policy/          301
+/terms-and-conditions     /terms-and-conditions/    301
+/privacy                  /privacy-policy/          301
+/terms                    /terms-and-conditions/    301

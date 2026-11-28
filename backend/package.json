@@ -1,0 +1,17 @@
+{
+  "name": "indias-next-dancer-backend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Registration + Razorpay API for India's Next Dancer 2027",
+  "engines": { "node": ">=20.12" },
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "NODE_ENV=production node src/server.js"
+  },
+  "dependencies": {
+    "compression": "1.7.5",
+    "express": "4.21.1",
+    "nodemailer": "6.9.16"
+  }
+}
